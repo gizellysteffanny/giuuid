@@ -1,2 +1,2 @@
 # giuuid
-A lightweight and easy library to generate random unique ID
+A lightweight and easy library to generate random and unique IDs
