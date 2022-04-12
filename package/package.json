@@ -1,0 +1,23 @@
+{
+  "name": "giuuid",
+  "version": "1.0.0",
+  "description": "A lightweight and easy library to generate random and unique UUIDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gizellysteffanny/giuuid.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "uuid"
+  ],
+  "author": "Gizelly Steffanny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gizellysteffanny/giuuid/issues"
+  },
+  "homepage": "https://github.com/gizellysteffanny/giuuid#readme"
+}
