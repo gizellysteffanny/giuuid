@@ -1,5 +1,5 @@
 # giuuid
-A lightweight and easy library to generate random and unique UUIDs.
+A lightweight and easy library to generate random UUIDs.
 
 ## Installation
 
