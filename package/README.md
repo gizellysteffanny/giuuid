@@ -3,7 +3,7 @@ A lightweight and easy library to generate random UUIDs.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/gizellysteffanny/giuuid)
 ![GitHub](https://img.shields.io/github/license/gizellysteffanny/giuuid?color=blue)
-![npm](https://img.shields.io/npm/v/giuid?color=ff5d8f&label=version)
+![npm](https://img.shields.io/npm/v/giuuid?color=ff5d8f&label=version)
 
 ## Installation
 
